@@ -1,0 +1,6 @@
+Format:
+<relative image link>|<name>|<description>|<list, tags>|<price>|<quantity>
+IMAGE LINK | NAME | DESCRIPTION | TAGS | PRICE | QUANTITY
+
+==== DATA STARTS ====
+res\BotImage.jpg|Conductor PFP|An edited image for a Discord bot|test, bot, jpg|1.10|1

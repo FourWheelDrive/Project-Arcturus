@@ -1,0 +1,4 @@
+Goals and Research:
+- Investigate input box vulnerability. Is sending emails from text input secure?
+- Figure out how to automatically back up data.txt regularly. Hopefully stops it from corrupting all previous versions.
+- Parallax effect with CSS! 
