@@ -29,7 +29,7 @@ class InventoryHandler {
     }
 
     async initializeInventory() {
-        fetch("C:/Users/jeffe/OneDrive/Documents/GitHub/Project Arcturus/data.txt")
+        fetch("https://github.com/FourWheelDrive/Project-Arcturus/blob/main/data.txt")
         .then((res) => console.log(res))
 
         /*

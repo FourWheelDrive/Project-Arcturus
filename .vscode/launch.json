@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "C:\\Users\\jeffe\\OneDrive\\Documents\\GitHub\\Project Arcturus\\index.html"
+            "file": "C:\\Users\\jeffe\\OneDrive\\Documents\\GitHub\\Project-Arcturus\\index.html"
         }
     ]
 }
