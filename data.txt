@@ -4,3 +4,4 @@ IMAGE LINK | NAME | DESCRIPTION | TAGS | PRICE | QUANTITY
 
 ==== DATA STARTS ====
 res\BotImage.jpg|Conductor PFP|An edited image for a Discord bot|test, bot, jpg|1.10|1
+res\Crimesight Irene.jpg|Crimesight jpg|An image for testing inventory and gallery|test, irene, jpg|313|3
